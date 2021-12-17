@@ -17,3 +17,9 @@ Version > 1.22
 | OS                | bullseye-slim |
 | Node              | 16.0          |
 | Yarn              | 1.22          |
+
+## Usage
+
+```shell
+docker-compose run --rm yarn help
+```
